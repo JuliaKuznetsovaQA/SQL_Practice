@@ -16,7 +16,7 @@
  
 # Задание по SQL:
  
- <img src="img/task_QA.jpg" alt="drawing" style="width:80%; text-align:center"/>
+ <img src="https://raw.githubusercontent.com/JuliaKuznetsovaQA/SQL_Practice/main/img/task.JPG" alt="drawing" style="width:80%; text-align:center"/>
  
 1. Вывести, какие экзамены сдавал студент Иванов.
 2. Вывести, какие студенты сдавали математику.
